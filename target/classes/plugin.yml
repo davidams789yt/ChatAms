@@ -1,0 +1,9 @@
+name: ChatAms
+description: El plugin ChatAms de davidams789
+author: davidams789
+main: me.davidams789.ChatAms.Main
+version: 0.0.1
+
+commands:
+  chat:
+    description: El comando Chat del plugin ChatAms
